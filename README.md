@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MOEINSOHA
-- 👀 I’m interested in Mathematical , Physics , Programming , Quantum , Deep learning
+- 👀 I’m interested in Mathematical , Physics , Python Programming , Quantum , Deep learning
 - 🌱 I’m currently learning Quantum
 - 💞️ I’m looking to collaborate on TMU
 - 📫 How to reach me Moeinsohaeii@gmail.com
